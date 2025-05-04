@@ -1,0 +1,2 @@
+# konursbot
+enshtein
